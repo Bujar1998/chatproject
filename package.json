@@ -1,0 +1,41 @@
+{
+  "name": "chatproject",
+  "version": "1.0.0",
+  "description": "A chat application built with node, mongodb, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bujar1998/chatproject.git"
+  },
+  "author": "Bujar Etemi & Meral Memeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bujar1998/chatproject/issues"
+  },
+  "homepage": "https://github.com/Bujar1998/chatproject#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "dependable": "^1.1.0",
+    "ejs": "^3.0.2",
+    "express-promise-router": "^3.0.3",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.4.0",
+    "flash": "^1.1.0",
+    "install": "^0.13.0",
+    "lodash": "^4.17.15",
+    "lodash.assign": "^4.2.0",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "validate.js": "^0.13.1"
+  }
+}
